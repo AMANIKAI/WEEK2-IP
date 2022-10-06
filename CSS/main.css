@@ -6,4 +6,5 @@ body {
 img {
     border-style: solid;
     border-width: 4mm;
+    background-color: aqua;
   }
