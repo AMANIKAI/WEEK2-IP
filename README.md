@@ -44,6 +44,8 @@ Friday: Afua
 
 Saturday: Ama
 
+### Live link
+
 The live link is at https://amanikai.github.io/WEEK2-IP/
 
 ### Most people do know when their birthdays are, but some might not know what day of the week they were born. Luckily for us, there are ways to calculate the day of the week from a specific date. The following is one of the many methods that exist for that;
