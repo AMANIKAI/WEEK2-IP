@@ -78,7 +78,8 @@ Click the submit button to see what your Akan name would be
 
 ## Technologies Used
 
-Languages used include HTML and CSS. I have used editor Visual Studio Code for creating the app and Git Bash terminal for coding.
+Languages used include HTML and CSS. 
+I have used editor Visual Studio Code for creating the app and Git Bash terminal for coding.
 We have also used bootstraps, jumbotron and added javascript for functionality
 
 ## Support and contact details
