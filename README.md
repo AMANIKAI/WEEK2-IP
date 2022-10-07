@@ -4,7 +4,15 @@
 
 ### Version Date: 7th. Oct 2022
 
-#### By **Amani**
+#### Author
+
+**Amani Kai**
+
+### Setup instructions
+
+-Git clone https://github.com/AMANIKAI/WEEK2-IP.git
+-Open the code with VScode
+-Go live
 
 ## Description
 
@@ -64,27 +72,24 @@ Day of the week (d) = ( ( (CC/4) -2*CC-1) + ((5*YY/4) ) + ((26*(MM+1)/10)) + DD 
 
  mod - is the modulus function ( % )
 
-## Known Bugs
-
-There are no known bugs on this project.
-
-## USER STORY
+## BDD
 
 ### As a user, you will be able like to;
 
-See a  small description of what the application does on the landing page.
+-See a  small description of what the application does on the landing page.
 
-Enter your birthday through a form 
+-Enter your birthday through a form 
 
-Choose what gender you are.
+-Choose what gender you are.
 
 Click the submit button to see what your Akan name would be
 
 ## Technologies Used
 
-Languages used include HTML and CSS. 
-I have used editor Visual Studio Code for creating the app and Git Bash terminal for coding.
-We have also used bootstraps, jumbotron and added javascript for functionality
+JS
+HTML
+BOOTSTRAPS
+CSS
 
 ## Support and contact details
 
