@@ -86,10 +86,11 @@ Click the submit button to see what your Akan name would be
 
 ## Technologies Used
 
-JS
+JAVASCRIPT
 HTML
 BOOTSTRAPS
 CSS
+CODE FORMATTED VIA PRETTIER AND TYPESCRIPT/JAVASCRIPT
 
 ## Support and contact details
 
