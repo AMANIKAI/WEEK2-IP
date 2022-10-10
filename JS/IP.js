@@ -23,10 +23,10 @@ function akanNames() {
 
             if (gender === "M") {
 
-                alert("your Akan name is" + genderMale);
+                document.getElementById("nameDisplay").innerHTML="your Akan name is" + genderMale;
             }
             else {
-                alert("your Akan name is" + genderFemale);
+                document.getElementById("nameDisplay").innerHTML="your Akan name is" + genderFemale;
             }
         }
         else {
