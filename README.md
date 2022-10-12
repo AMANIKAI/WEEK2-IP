@@ -6,7 +6,7 @@
 
 #### Author
 
-**Amani Kai**
+The author is **Amani Kai**
 
 ### Setup instructions
 
